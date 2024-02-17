@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(182, 166, 166);
+}
+
+.bg-success {
+  background-color: green;
+}
+
+.bg-danger {
+  background-color: red;
+}
